@@ -1,0 +1,10 @@
+mock date
+syntax
+yyyy‑MM‑dd HH:mm:ss. SSSSSS
+ex
+"2023-03-01 23:03"
+
+("TECH" ,"Aprendizado com foco em tecnologias"),
+("HARD" , "Aprendizado com foco em desenvolvimento pratico de habilidades"),
+("SOFT" , "Aprendizando com foco na área de desenvolvimento interpessoal"),
+("teorico" , "Aprendizado de fundamentos")
