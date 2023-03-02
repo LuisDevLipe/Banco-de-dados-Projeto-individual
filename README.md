@@ -22,5 +22,5 @@ funcionarios n:m turmas
 funcionarios n:m disciplinas
 disciplinas n:m funcionarios .
 
-=========================================================
+![prévia do Modelo Proposto](https://github.com/LuisDevLipe/Banco-de-dados-Projeto-individual/blob/main/img/Modelo%20proposto.png?raw=true)
 
